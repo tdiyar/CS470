@@ -1,0 +1,6 @@
+[submodule "DEXTR-PyTorch"]
+	path = DEXTR-PyTorch
+	url = https://github.com/scaelles/DEXTR-PyTorch.git
+[submodule "models"]
+	path = models
+	url = https://github.com/tensorflow/models.git
